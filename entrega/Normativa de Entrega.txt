@@ -1,0 +1,24 @@
+ ENTREGABLE Y FORMATO DE LA MEMORIA
+ 
+En cada entrega, todos los ficheros a entregar deberán comprimirse en un único fichero cuyo
+nombre debe ser (según la convocatoria y la entrega correspondiente):
+• “PP-febrero NOMBRE ALUMNO DNI.zip”
+• “PP-septiembre NOMBRE ALUMNO DNI.zip”
+El entregable de la práctica finalizada deberá contener lo siguiente:
+• Ficheros de código fuente necesarios para compilar y ejecutar el programa (no se deben
+incluir las librerías de MPI, ni cualquier otra librería estándar). Los ficheros de cada uno
+de los ejercicios deberán nombrarse como ej1.c, ej2.c, etc. Sí deben incluirse las
+instrucciones de compilación del programa.
+• Memoria explicativa del trabajo en formato PDF, donde se detalle de manera razonada
+la solución adoptada, las decisiones de implementación y el funcionamiento de cada
+programa. No será aceptable remitir en dicha memoria a los comentarios del código
+fuente. Tampoco debe incluirse en la memoria el código fuente del programa, aunque sí
+podrán incluirse los extractos necesarios para completar las explicaciones de su
+funcionamiento.
+La memoria debe constar de los siguientes apartados:
+
+1. Portada con nombre, dirección, número de DNI, teléfonos y correo electrónico.
+2. Memoria descriptiva del trabajo realizado, explicando de manera detallada y razonada las
+decisiones tomadas durante el desarrollo de la práctica. Detalle también el método de
+compilación y ejecución de su programa para poder facilitar la corrección del mismo.
+3. Conclusiones, opiniones y mejoras relacionadas con la práctica.
